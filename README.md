@@ -4,11 +4,16 @@ I Created This Repository for auto machine my recon flow and track the changes f
 in this recon path i use several tools which i menthioned below
 
 # Subdomain Enumeration
-1.subfinder \n 
+1.subfinder 
+
 2.findomain
+
 3.cert.sh
+
 4.assetfinder
+
 5.chaos
+
 6.extract subdomain from url and crawling(custom method)
 
 # Content Discovery
