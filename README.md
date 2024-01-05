@@ -4,6 +4,7 @@ I Created This Repository for auto machine my recon flow and track the changes f
 in this recon path i use several tools which i menthioned below
 
 # Subdomain Enumeration
+
 1.subfinder 
 
 2.findomain
@@ -17,9 +18,13 @@ in this recon path i use several tools which i menthioned below
 6.extract subdomain from url and crawling(custom method)
 
 # Content Discovery
+
 1.gau
+
 2.katana
+
 3.wayback
+
 4.hakrawler
 
 # JS finder 
