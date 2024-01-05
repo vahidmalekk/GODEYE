@@ -30,5 +30,5 @@ in this recon path i use several tools which i menthioned below
 # JS finder 
 i use custom javascript word for findning sensitive informations
 
-#How Tracking Works?
+# How Tracking Works?
 actuly i creat files and use python script for comparing them with the last scan. 
